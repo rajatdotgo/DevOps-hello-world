@@ -33,7 +33,7 @@
   <br>
 
   <br>
-   <h1> Thankyou, Happy Learning Good Bye </h1>
+   <h1> Thankyou, Happy Learning Good Bye! </h1>
 
   
 </form>
